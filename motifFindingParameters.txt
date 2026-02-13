@@ -1,0 +1,1 @@
+cmd = GSE129314_RUNX1ChIP_peaks_homer.txt hg38 ./ -find Results/knownResults/known44.motif
